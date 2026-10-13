@@ -1,0 +1,33 @@
+# ==========================================
+# ARCHIVOS GENERADOS POR JAVA
+# ==========================================
+# Archivos compilados
+*.class
+# Directorio de salida habitual de Eclipse
+/bin/
+# Directorio de compilacion de Maven
+/target/
+# Directorio de compilacion de Gradle
+/build/
+# ==========================================
+# CONFIGURACION LOCAL DE ECLIPSE
+# ==========================================
+# Metadatos del workspace de Eclipse
+.metadata/
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+# ==========================================
+# ARCHIVOS TEMPORALES Y REGISTROS
+# ==========================================
+*.log
+*.tmp
+*.swp
+*.bak
+# ==========================================
+# CONFIGURACION LOCAL Y DATOS SENSIBLES
+# ==========================================
+# Variables de entorno y credenciales locales
+.env
+.env.*
